@@ -9,6 +9,10 @@
   - [Tools](#tools)
   - [Models](#models)
   - [Applications](#applications)
+  - [APIs](#apis)
+    - [Node.js](#nodejs)
+    - [Python](#python)
+    - [PHP](#php)
 - [How to Contribute](#how-to-contribute)
 - [Additional Resources](#additional-resources)
 
@@ -32,6 +36,23 @@ This list aims to gather the best open-source projects related to the Suno proje
 
 - [Application 1](https://github.com/username/app1) - A short description of the application.
 - [Application 2](https://github.com/username/app2) - A short description of the application.
+
+### APIs
+
+#### Node.js
+
+- [Node.js API Project 1](https://github.com/username/nodejs-project1) - A short description of the Node.js API project.
+- [Node.js API Project 2](https://github.com/username/nodejs-project2) - A short description of the Node.js API project.
+
+#### Python
+
+- [Python API Project 1](https://github.com/username/python-project1) - A short description of the Python API project.
+- [Python API Project 2](https://github.com/username/python-project2) - A short description of the Python API project.
+
+#### PHP
+
+- [PHP API Project 1](https://github.com/username/php-project1) - A short description of the PHP API project.
+- [PHP API Project 2](https://github.com/username/php-project2) - A short description of the PHP API project.
 
 ## How to Contribute
 
