@@ -81,6 +81,7 @@ Suno AI is revolutionizing the music industry with its advanced AI-powered music
 - [GwyrddGlas/Suno-Downloader](https://github.com/GwyrddGlas/Suno-Downloader) - Download any song from suno.ai
 
 ### PHP
+- [runapi-ai/suno-php](https://github.com/runapi-ai/suno-php) - A Composer package for running Suno music generation, cover audio, extension, stem separation, and custom voice workflows through RunAPI.
 - [YunzhiYike/Suno-SDK](https://github.com/YunzhiYike/Suno-SDK) - This is an unofficial Suno API based on PHP; it provides support for all Suno interfaces.
 
 ### Dart
