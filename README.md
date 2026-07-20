@@ -95,7 +95,7 @@ Suno AI is revolutionizing the music industry with its advanced AI-powered music
 
 ## Web Tools, Services and Applications
 - [SunoPrompt.com](https://sunoprompt.com/) - An advanced web-based prompt engineering tool that helps users construct precise style descriptions. It generates structured inputs (genre, mood, instruments) to maximize the quality of Suno's outputs.
-- [Suno Meta Tags Creator](https://sunometatagcreator.com/) - A visual builder for Suno's metatag system (e.g., `[Verse]`, `[Chorus]`, `[Mellow Vocals]`). Includes an AI lyric generator optimized for Suno's structural requirements.
+- [Suno Meta Tags Creator](https://sunometatagcreator.com/) - A visual drag and drop builder for Suno's metatag system with 1000+ categorized tags and an interactive song structure timeline. Includes AI lyrics in 5 languages, audio mastering and denoising, cover art generation, and music video tools.
 - [Suno Manager](https://chromewebstore.google.com/detail/suno-manager/bhfnejgfonhlaalgnhcphpjbbifidpki) - A powerful browser extension for managing large libraries. It allows filtering, organizing, and bulk downloading of songs (MP3/WAV) along with their JSON metadata, operating entirely on the client side.
 - [HookGenius](https://hookgenius.app) - An AI prompt engine for Suno music creators. It generates complete song lyrics with structure tags, Suno-optimized style prompts, and titles ready to copy-paste into Suno.
 - [AIMusixer (AI music maker)](https://suno-ai.me) - A website for creating music using Suno from text or audio recordings.
