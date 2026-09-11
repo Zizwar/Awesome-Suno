@@ -103,6 +103,7 @@ Suno AI is revolutionizing the music industry with its advanced AI-powered music
 - [Yanyutin753/pictureChange](https://github.com/Yanyutin753/pictureChange) - Plugin for chatgpt-on-wechat project, supporting Baidu AI and Stable Diffusion WebUI for image processing, providing multiple model choices, supporting image-to-image and text-to-image custom templates. Suno music AI can convert images and text to music.
 - [MuratGuelr/sunoai-music-player](https://github.com/MuratGuelr/sunoai-music-player) - Suno AI - Online Music Player Made By Murat Guler
 - [Tunova](https://tunova.ai) - A hosted Suno API for developers: generate full songs via REST or MCP, async with HMAC-signed webhooks, billed only on successful renders (failed generations auto-refund). Zero-dependency Python & Node SDKs (`pip install tunova` / `npm i tunova`).
+- [MUSAI](https://musaisong.app) - A lyric and style-prompt writer for Suno: it turns a personal story into original lyrics plus a genre-calibrated prompt for the Style of Music field. It documents 564 music styles, each with BPM, an arrangement formula and published Style Influence and Weirdness values, and issues a numbered illustrated plate registered in a public authorship record. Bilingual (English and Spanish). It does not generate or deliver audio.
 
 ## Additional Resources
 - [develephant/suno-songtags](https://github.com/develephant/suno-songtags) - Collected song tags for helping steer Suno AI.
