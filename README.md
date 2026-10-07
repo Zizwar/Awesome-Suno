@@ -104,6 +104,7 @@ Suno AI is revolutionizing the music industry with its advanced AI-powered music
 - [MuratGuelr/sunoai-music-player](https://github.com/MuratGuelr/sunoai-music-player) - Suno AI - Online Music Player Made By Murat Guler
 - [Tunova](https://tunova.ai) - A hosted Suno API for developers: generate full songs via REST or MCP, async with HMAC-signed webhooks, billed only on successful renders (failed generations auto-refund). Zero-dependency Python & Node SDKs (`pip install tunova` / `npm i tunova`).
 - [MUSAI](https://musaisong.app) - A lyric and style-prompt writer for Suno: it turns a personal story into original lyrics plus a genre-calibrated prompt for the Style of Music field. It documents 564 music styles, each with BPM, an arrangement formula and published Style Influence and Weirdness values, and issues a numbered illustrated plate registered in a public authorship record. Bilingual (English and Spanish). It does not generate or deliver audio.
+- [VELIN Suno API](https://72agi.com/suno-api.html) - Pay-per-use REST API for Suno 5.5 and Suno 5 (about $0.12 per generation, 2 tracks each; simple prompt or custom lyrics/style, instrumental mode). Open-source Python/Node examples and a zero-dependency MCP server in [velin-api/velin-image-api](https://github.com/velin-api/velin-image-api).
 
 ## Additional Resources
 - [develephant/suno-songtags](https://github.com/develephant/suno-songtags) - Collected song tags for helping steer Suno AI.
