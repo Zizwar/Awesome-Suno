@@ -109,6 +109,7 @@ Suno AI is revolutionizing the music industry with its advanced AI-powered music
 ## Additional Resources
 - [develephant/suno-songtags](https://github.com/develephant/suno-songtags) - Collected song tags for helping steer Suno AI.
 - [samuelgrupolimex-prog/suno-style-recipes](https://github.com/samuelgrupolimex-prog/suno-style-recipes) - 564 documented styles with the style prompt, BPM, weirdness and style influence for each, as a markdown table, CSV, JSON and Parquet. CC0.
+- [previtlab/suno-lyrics-skill](https://github.com/previtlab/suno-lyrics-skill) - A Claude Agent Skill (SKILL.md) for writing singable Korean lyrics together with the Suno Style, Exclude and Title fields, with genre-adaptive rules from ballad and trot to rap and K-pop. CC BY 4.0.
 
 ## How to Contribute
 
