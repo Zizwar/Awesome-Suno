@@ -108,6 +108,7 @@ Suno AI is revolutionizing the music industry with its advanced AI-powered music
 - [Is This Song AI](https://isthissongai.app/) - A free checker for whether a song was made with Suno, Udio or a similar generator. Paste a Spotify, Apple Music, YouTube or Deezer link (it scores the official 30-second preview) or upload a file, which is analysed in the browser. It runs the open-source fakeprint model based on Deezer's ISMIR 2025 research and publishes its 65-song accuracy test; the model covers Suno up to v5, so v6 songs may be missed.
 - [Suno Checker](https://sunochecker.com/) - A free checker for whether a song was made with Suno, Udio or another AI generator. Upload a file, record your computer's audio or paste a SoundCloud link; the original file never leaves the browser and nothing is stored. It marks which sections of a song read as AI and estimates the Suno version (v2 to v5.5) when it can. No sign-up and no track limit.
 - [LyricsMove](https://lyricsmove.com) - Turn a Suno song link or an uploaded MP3 into a lyric video with word-by-word timing. Free in 720p with no watermark and no signup.
+- [Songbrain](https://www.songbrain.ai/analyze-suno-songs) - Analyzes a finished Suno export: upload the MP3 or WAV and get a 0-100 score with its breakdown, the strongest seconds with timestamps, BPM, key and loudness (LUFS), plus vertical clips cut around the best part. The first song is free.
 
 ## Additional Resources
 - [develephant/suno-songtags](https://github.com/develephant/suno-songtags) - Collected song tags for helping steer Suno AI.
